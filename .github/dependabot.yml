@@ -1,0 +1,9 @@
+version: 2
+updates:
+  # This repo has no package.json, so there is no npm entry: Dependabot
+  # reports "dependency file not found" for an npm ecosystem with no manifest.
+  # Add one here if a package.json is ever introduced.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
