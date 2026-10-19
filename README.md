@@ -2,22 +2,35 @@
 
 **Full-Stack Developer | SaaS & AI Solutions | Web Applications | Business Automation | Technology Entrepreneur**
 
-Construction and infrastructure professional working at the intersection of project
-delivery and applied AI. I build and publish frameworks for how construction
-organisations make decisions — and increasingly, the tools that support them.
+I build software products and the systems behind them, and I publish research on how construction organisations make decisions. My work sits where project delivery, applied AI and web technology meet.
 
-Based in Ras Al Khaimah, UAE. Working internationally.
+Based in Ras Al Khaimah, UAE. Working internationally across the UAE, UK and USA.
 
 ---
 
 ## What I work on
 
-- **Construction leadership frameworks** — GCLM / AI-GCLM, a research line on
-  AI-enhanced decision-making in global construction management
-- **Applied AI and automation** — practical tools for project delivery, reporting
-  and decision support, rather than research prototypes
-- **Digital ventures** — e-commerce and web systems operated across the Papple group
 - **Full-stack software and SaaS** — web applications, AI-enabled products and business automation for small businesses and SMEs
+- **Applied AI and automation** — practical tools for project delivery, reporting and decision support, rather than research prototypes
+- **Construction leadership frameworks** — GCLM / AI-GCLM, a research line on AI-enhanced decision-making in global construction management
+- **Digital ventures** — marketplaces, content platforms and e-commerce systems operated across the Papple group
+
+## Products and platforms
+
+| Project | What it is |
+|---------|------------|
+| [Softqora](https://softqora.dev) | AI-native marketplace, in active development |
+| Orbiluma | Multi-generation learning, play and discovery platform, in development |
+| BuildSourceNetwork | B2B building-materials marketplace connecting suppliers, contractors and developers |
+| [Finloraq](https://app.finloraq.com) | AI finance web app |
+| BusinessPilotOS | Business operating system for small businesses and SMEs |
+| EarningByAI | AI tool reviews, income-path guides and free calculators |
+| PappleMart | Dropshipping marketplace on WordPress and WooCommerce |
+| SocialTrendDaily, HappyLearningKids | WordPress content platforms for trends and for parents and children |
+
+## Tools
+
+TypeScript · Next.js · React · Supabase · Vercel · Python · Node.js · WordPress · WooCommerce · Shopify · Git and GitHub · Markdown
 
 ## Research
 
@@ -38,24 +51,12 @@ ORCID: [0009-0000-2294-8968](https://orcid.org/0009-0000-2294-8968) ·
 
 ## Background
 
-Civil engineer by training (B.Tech Civil Engineering, MBA), with 16+ years in
-construction practice and over 300 delivered projects across residential, commercial
-and infrastructure work. Currently Construction Director at Madeen Building
-Contracting LLC in Ras Al Khaimah, and founder of the Papple Holdings Advisory
-Network.
-
-## Tools
-
-WordPress · Shopify · Markdown · Git
+Civil engineer by training (B.Tech Civil Engineering, MBA), with 16+ years in construction practice and over 300 delivered projects across residential, commercial and infrastructure work. Currently Construction Director at Madeen Building Contracting LLC in Ras Al Khaimah, and founder of the Papple Holdings Advisory Network.
 
 ## Open to
 
-Research collaboration on AI in construction management, technical review of
-infrastructure decision frameworks, and conversations with people building tooling for
-the construction sector.
+Collaboration on SaaS and AI product work, research collaboration on AI in construction management, technical review of infrastructure decision frameworks, and conversations with people building tooling for the construction sector.
 
 ---
 
-📍 Ras Al Khaimah, UAE
-🌐 [mrahaman.com](https://mrahaman.com/)
-💼 [LinkedIn](https://www.linkedin.com/in/mohammad-rahaman-5136283a5)
+📍 Ras Al Khaimah, UAE · 🌐 [mrahaman.com](https://mrahaman.com) · 🌐 [papple.net](https://papple.net) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-rahaman-5136283a5/)
