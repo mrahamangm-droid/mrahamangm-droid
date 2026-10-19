@@ -4,6 +4,8 @@
 
 I build software products and the systems behind them, and I publish research on how construction organisations make decisions. My work sits where project delivery, applied AI and web technology meet.
 
+**Featured platform:** [Softqora](https://www.softqora.dev) — my AI-native software marketplace, at [www.softqora.dev](https://www.softqora.dev)
+
 Based in Ras Al Khaimah, UAE. Working internationally across the UAE, UK and USA.
 
 ---
@@ -19,7 +21,7 @@ Based in Ras Al Khaimah, UAE. Working internationally across the UAE, UK and USA
 
 | Project | What it is |
 |---------|------------|
-| [Softqora](https://softqora.dev) | AI-native marketplace, in active development |
+| [Softqora](https://www.softqora.dev) | AI-native marketplace, in active development |
 | Orbiluma | Multi-generation learning, play and discovery platform, in development |
 | BuildSourceNetwork | B2B building-materials marketplace connecting suppliers, contractors and developers |
 | [Finloraq](https://app.finloraq.com) | AI finance web app |
@@ -59,4 +61,4 @@ Collaboration on SaaS and AI product work, research collaboration on AI in const
 
 ---
 
-📍 Ras Al Khaimah, UAE · 🌐 [mrahaman.com](https://mrahaman.com) · 🌐 [papple.net](https://papple.net) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-rahaman-5136283a5/)
+📍 Ras Al Khaimah, UAE · 🚀 [Softqora](https://www.softqora.dev) · 🌐 [mrahaman.com](https://mrahaman.com) · 🌐 [papple.net](https://papple.net) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-rahaman-5136283a5/)
