@@ -1,5 +1,7 @@
 # Mohammad Habibur Rahaman
 
+**Full-Stack Developer | SaaS & AI Solutions | Web Applications | Business Automation | Technology Entrepreneur**
+
 Construction and infrastructure professional working at the intersection of project
 delivery and applied AI. I build and publish frameworks for how construction
 organisations make decisions — and increasingly, the tools that support them.
@@ -15,6 +17,7 @@ Based in Ras Al Khaimah, UAE. Working internationally.
 - **Applied AI and automation** — practical tools for project delivery, reporting
   and decision support, rather than research prototypes
 - **Digital ventures** — e-commerce and web systems operated across the Papple group
+- **Full-stack software and SaaS** — web applications, AI-enabled products and business automation for small businesses and SMEs
 
 ## Research
 
